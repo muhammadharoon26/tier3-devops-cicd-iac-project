@@ -1,3 +1,6 @@
+# Tier3 DevOps CICD IAC Project
+A DevOps project showcasing version control, automated testing, CI/CD, containerization, monitoring, and infrastructure as code.
+
 First, let's create the project structure. Here's what we'll use:
 - GitHub (free account) for source control
 - GitHub Actions for CI/CD
